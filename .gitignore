@@ -1,0 +1,31 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+build
+out/
+
+# Mac
+.DS_Store
+
+# Gradle
+.gradle
+
+# Maven
+target
+
+# Testcontainers cloud
+agent
+
+# approvaltests
+*.received.*
+
+logs/
+lib
+libs
+bin
